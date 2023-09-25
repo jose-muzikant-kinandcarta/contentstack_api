@@ -1,14 +1,15 @@
 {
-  "name": "contentstack",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "contentstack": "^3.17.1"
-  }
+    "name": "contentstack",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "contentstack": "^3.17.1"
+    }
 }
